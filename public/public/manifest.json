@@ -1,0 +1,15 @@
+{
+  "short_name": "BioMa",
+  "name": "BioMa — مساعد SVT",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020c06",
+  "background_color": "#020c06"
+}
